@@ -1,0 +1,5 @@
+train: C:\Users\SHAHAD\OneDrive\Desktop\ScoutX\sports-ai-env\yolo_dataset\images\train
+val: C:\Users\SHAHAD\OneDrive\Desktop\ScoutX\sports-ai-env\yolo_dataset\images\val
+
+nc: 1  # عدد الفئات
+names: ['football_player']  # أسماء الفئات
